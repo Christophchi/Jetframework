@@ -1,2 +1,2 @@
 # Jetframework
-JetFramework is a dynamic web application framework with a highly expressive and elegant syntax. We have meticulously built the foundation, taking care of the intricate details so that you can focus on unleashing your creativity. By expanding on the robust capabilities of Symfony and Lumen Services.
+JetFramework is a dynamic web application framework with a highly expressive and elegant syntax. Built on top of Symfony & Lumen, JetFramework inherits their robustness and stability. It incorporates best practices and proven architectural patterns, ensuring the security, scalability, and maintainability of your applications.  We have meticulously built the foundation, taking care of the intricate details so that you can focus on unleashing your creativity.
